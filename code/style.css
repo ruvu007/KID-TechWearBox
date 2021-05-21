@@ -1,0 +1,235 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+input {
+    margin-bottom: .4rem !important;
+}
+
+select {
+    width: 12rem !important;
+}
+
+.form-control {
+    width: 15rem;
+}
+
+.txt {
+    color: #464646;
+}
+
+.txt2 {
+    color: #FFFFFF;
+}
+
+nav {
+    background-color: #464646;
+}
+
+.nav-links {
+    margin-left: 44rem;
+}
+
+.nav-link {
+    color: #FFFFFF !important;
+    font-size: 18px;
+    margin: 1rem;
+}
+
+.logo {
+    margin-left: 5rem;
+}
+
+header {
+  padding: 200px 0 100px;
+  height: 100vh;
+  background: url(images/wallpaper.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.title {
+    margin-top: 9rem;
+    font-weight: bold;
+}
+
+.wvdm {
+    padding-bottom: 2rem;
+}
+
+.box {
+    width: 60%;
+    margin-left: 20rem;
+}
+
+.title2 {
+    padding-top: 2rem;
+}
+
+.link {
+    color: blue;
+    text-decoration: underline;
+    margin-right: .8rem;
+    font-size: 23px;
+}
+
+.button {
+    margin-left: 45rem;
+}
+
+.hwh {
+    background-color: #464646;
+}
+
+.title3 {
+    color: #FFFFFF;
+    padding-top: 2rem;
+}
+
+.icondiv {
+    margin: 6rem;
+}
+
+.pc-icon {
+    width: 65%;
+    height: 65%;
+    margin-left: 4.5rem;
+}
+
+.truck-icon {
+    width: 65%;
+    margin-left: 5rem;
+}
+
+.hwh-text {
+    color: #FFFFFF;
+}
+
+.reviewline {
+    width: 240px;
+    border-bottom: 3px solid #FFFFFF;
+    margin-left: 40rem;
+    margin-bottom: 1rem;
+}
+
+.subtitle2 {
+    padding-bottom: 2rem;
+}
+
+.overons {
+    padding-bottom: 2rem;
+}
+
+.overons-text {
+    padding-top: 2rem;
+}
+
+.accordiondiv {
+    width: 500px;
+    margin-left: 32rem;
+}
+
+.accordion {
+    background-color: #eee;
+    color: #444;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    text-align: left;
+    border: none;
+    outline: none;
+    transition: 0.4s;
+}
+  
+.active, .accordion:hover {
+    background-color: #ccc;
+}
+  
+.panel {
+    padding: 0 18px;
+    background-color: white;
+    display: none;
+    overflow: hidden;
+}
+
+.footer {
+    background-color: #8B8B8B;
+    padding-bottom: 1rem;
+}
+
+.footer-title {
+    padding-top: 2rem;
+    margin-left: 2rem;
+    margin-bottom: .5rem;
+    font-weight: bold;
+}
+
+.links {
+    padding-left: 10rem;
+    width: 50%;
+    float: left;
+}
+
+.links2 {
+    margin-left: 68rem;
+}
+
+.title-subscription {
+    margin-top: 3rem !important;
+}
+
+.header-subscription {
+    height: 65vh !important;
+}
+
+.subscriptions {
+    margin-left: 30rem;
+}
+
+.title4 {
+ padding-top: 13rem;   
+}
+
+.title5 {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.cart {
+    padding-left: 20rem;
+    padding-bottom: 3rem;
+}
+
+.coupon {
+    width: 15%;
+    float: left;
+    margin-right: .5rem;
+}
+
+.nieuwsbrief {
+    padding-bottom: .5rem;
+}
+
+.cart-form {
+    width: 50%;
+    float: left;
+}
+
+.kleur {
+    margin-top: .6rem;
+}
+
+.price {
+    margin-top: 1rem;
+}
+
+.sub {
+    margin-top: 1rem;
+    margin-bottom: 3rem;
+}
+
+.footer-succes {
+    padding-bottom: 3.15rem;
+}
