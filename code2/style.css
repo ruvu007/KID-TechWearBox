@@ -1,0 +1,147 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+a {
+    font-size: 1.25rem !important;
+}
+
+p {
+    font-size: 1.25rem !important;
+}
+
+.txt {
+    color: #fff;
+}
+
+.txt2 {
+    color: #000;
+}
+
+.nav-links {
+    margin-left: 51rem;
+}
+
+.navlink {
+    font-size: 1rem !important;
+}
+
+.welcome {
+    height: 80vh;
+    background: url(images/wallpaper.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.welcome2 {
+    height: 40vh;
+    background: url(images/wallpaper.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.welcometxt {
+    margin-bottom: 1rem;
+}
+
+.box {
+    width: 95%;
+}
+
+.link {
+    color: blue !important;
+    text-decoration: underline;
+}
+
+.pc-icon {
+    width: 80%;
+}
+
+.truck-icon {
+    width: 100%;
+}
+
+.howto {
+    margin-top: 3rem;
+}
+
+.reviewline {
+    width: 37vw;
+    border-bottom: 3px solid #000;
+    margin-left: 15rem;
+    margin-bottom: 1rem;
+    margin-top: .5rem;
+}
+
+.review {
+    margin-top: 2rem;
+}
+
+.abt {
+    margin-top: 2rem;
+}
+
+.accordion-flush {
+    margin-top: 2rem;
+}
+
+.accordion-button:not(.collapsed) {
+    background-color: #eee;
+}
+
+.checkout {
+    width: 1000px;
+    margin-left: 300px;
+}
+
+@media (max-width: 1400px) {
+    .nav-links {
+        margin-left: 0rem;
+    }
+
+    .welcome {
+        height: 74vh;
+    }
+
+    .box {
+        width: 100%;
+    }
+
+    .checkout {
+        width: 800px;
+        margin-left: 200px;
+    }
+  }
+
+@media (max-width: 1000px) {
+    .paragraph {
+        font-size: 1rem;
+    }
+
+    .pc-icon {
+        width: 60%;
+    }
+    
+    .truck-icon {
+        width: 75%;
+    }
+
+    .howto {
+        margin-top: 1rem;
+    }
+
+    .reviewline {
+        margin-left: 7.5rem;
+    }
+
+    .checkout {
+        width: 370px;
+        margin-left: 0px;
+    }
+  }
